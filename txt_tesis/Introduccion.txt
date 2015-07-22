@@ -1,0 +1,37 @@
+-Introducción 
+
+A lo largo de los anos se han generado una cantidad enorme de información de todos los paradigmas del conocimiento y que ha sido distribuido a traves de internet (poner una cita del crecimiento de la informacion en internet y esta http://www.ijsce.org/attachments/File/v3i1/A1391033113.pdf)de los cuales unos de los conjuntos de datos de mayor importancia, son los que tienen que ver con los generados por la investigación de carácter biológico y medico.
+
+Esta información se requiere tener condensada y accesible para analisis subsecuentes, debido a los diversos niveles de interpretacion que se les puede dar a este conjunto de datos, como ejemplo en genomica comparativa,
+
+Para eso se ha usado tecnicas computacionales  de recopilacion y analsis de patrones
+
+
+
+*Comparative genomics
+Comparative genomics is the study of the relationship of genome structure and function across different biological
+species. Gene finding is an important application of comparative genomics, as is discovery of new, non-coding
+functional elements of the genome. Comparative genomics exploits both similarities and differences in the proteins,
+RNA, and regulatory regions of different organisms. Computational approaches to genome comparison have
+recently become a common research topic in computer science. 
+Analysis of mutations in cancer 
+In cancer, the genomes of affected cells are rearranged in complex or even unpredictable ways. Massive sequencing
+efforts are used to identify previously unknown point mutations in a variety of genes in cancer. Bioinformaticians
+continue to produce specialized automated systems to manage the sheer volume of sequence data produced, and they
+create new algorithms and software to compare the sequencing results to the growing collection of human genome
+sequences and germline polymorphisms. New physical detection technologies are employed, such as oligonucleotide
+microarrays to identify chromosomal gains and losses and single-nucleotide polymorphism arrays to detect known
+point mutations. Another type of data that requires novel informatics development is the analysis of lesions found to
+be recurrent among many tumors. *
+
+-Redes de regulaci�n transcripciones 
+
+-importancia en biolog�a y biomedicina. 
+
+
+
+-Miner�a de datos en bioinform�tica y biolog�a computacional
+
+
+-Teor�a de grafos y redes complejas
+
