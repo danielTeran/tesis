@@ -1,10 +1,8 @@
 -Introducción 
 
-A lo largo de los anos se han generado una cantidad enorme de información de todos los paradigmas del conocimiento y que ha sido distribuido a traves de internet [poner una cita del crecimiento de la informacion en internet y esta http://www.ijsce.org/attachments/File/v3i1/A1391033113.pdf]de los cuales unos de los conjuntos de datos de mayor importancia, son los que tienen que ver con los generados por la investigación de carácter biológico y medico.
+A lo largo de los anos se han generado una cantidad enorme de información de todos los paradigmas del conocimiento apartir de experimentos llevados acabo por institutos y organizaciones en todo el mundo y que han sido distribuido a traves de internet [poner una cita del crecimiento de la informacion en internet y esta http://www.ijsce.org/attachments/File/v3i1/A1391033113.pdf]. Esta información se requiere tener condensada y accesible para analisis subsecuentes, debido a los diversos niveles de interpretacion que se les puede dar a estos conjuntos de datos, como ejemplo, en finanzas y economia para analizar los movimientos del mercado, telecomunicaciones, metereologia, biolgia, medicina,[http://academic.csuohio.edu/fuy/Pub/pot97.pdf, http://www.spss.ch/upload/1122641492_Data%20mining%20applications%20in%20higher%20education.pdf    checar su referencia] pero de todos ellos,unos de los conjuntos de datos de mayor importancia, son los que tienen que ver con los dos ultimas areas mencionadas. 
 
-Esta información se requiere tener condensada y accesible para analisis subsecuentes, debido a los diversos niveles de interpretacion que se les puede dar a este conjunto de datos, como ejemplo en finanzas y economia para analizar los movimientos del mercado, telecomunicaciones,   genomica (comparativa),[http://academic.csuohio.edu/fuy/Pub/pot97.pdf, http://www.spss.ch/upload/1122641492_Data%20mining%20applications%20in%20higher%20education.pdf    checar su referencia]
-
-Para eso se ha usado tecnicas computacionales  de recopilacion y analsis que extraen informacion
+Para eso se ha usado tecnicas computacionales de recopilacion y analsis que actuan sobre estos datos, se pueden generar los elementos
 
 
 
