@@ -1,30 +1,35 @@
 -Introducción 
 
-A lo largo de los anos se han generado una cantidad enorme de información de todos los paradigmas del conocimiento apartir de experimentos llevados acabo por institutos y organizaciones en todo el mundo y que han sido distribuido a traves de internet [poner una cita del crecimiento de la informacion en internet y esta http://www.ijsce.org/attachments/File/v3i1/A1391033113.pdf]. Esta información se requiere tener condensada y accesible para analisis subsecuentes, debido a los diversos niveles de interpretacion que se les puede dar a estos conjuntos de datos, como ejemplo, en finanzas y economia para analizar los movimientos del mercado, telecomunicaciones, metereologia, biolgia, medicina,[http://academic.csuohio.edu/fuy/Pub/pot97.pdf, http://www.spss.ch/upload/1122641492_Data%20mining%20applications%20in%20higher%20education.pdf    checar su referencia] pero de todos ellos,unos de los conjuntos de datos de mayor importancia, son los que tienen que ver con los dos ultimas areas mencionadas. 
+A lo largo de los años se han generado una cantidad enorme de información de todos los paradigmas del conocimiento apartir de experimentos llevados acabo por institutos y organizaciones en todo el mundo y que han sido distribuido a traves de internet [poner una cita del crecimiento de la informacion en internet y esta http://www.ijsce.org/attachments/File/v3i1/A1391033113.pdf]. Esta información se requiere tener condensada y accesible para analisis subsecuentes, debido a los diversos niveles de interpretacion que se les puede dar y a los diversas estructuras que puedan emerger de estos conjuntos de datos, como ejemplo, en finanzas y economia para analizar los movimientos del mercado, en telecomunicaciones para analizar datos en , metereologia, biolgia, medicina,[http://academic.csuohio.edu/fuy/Pub/pot97.pdf, http://www.spss.ch/upload/1122641492_Data%20mining%20applications%20in%20higher%20education.pdf    checar su referencia] y son estos últimos son los que han tenido mayor importancia  conjuntos de datos de mayor importancia, son los que tienen que ver con los dos ultimas areas mencionadas. 
 
-Para eso se ha usado tecnicas computacionales de recopilacion y analsis que actuan sobre estos datos, se pueden generar los elementos
+Para eso se ha usado tecnicas sofisticadas computacionales para la obtener y analizar los diferentes patrones que pueden emerger de los datos obtenidos, a estas áreas del conocimiento que realizan estas actividades se les llama biología computacional y minería de datos [http://arxiv.org/abs/1205.1125]
+ 
+
+La primera consiste en la ciencia interdisciplinaria para la interpretación de la información de las grandes secuencias y estructuras de caracter genomico, proteomico y de otras áreas de la biologia.
+
+La mineria de datos es la ciencia que se encarga de la extracción y descubrimiento de nuevos patrones o relaciones de un conjunto grande de datos. La tarea principal de la minería de datos es la predicción y la descripcion de los datos que fueron analizados. Las principales tareas en donde se ocupa la mineria de datos es para clasificacion (la asignación de los datos en los 
+
+Classification: Classification is learning a function that maps (classifies) a data item into one of several predefined 
+classes. 
+Estimation: Given some input data, coming up with a value for some unknown continuous variable. 
+Prediction: Same as classification & estimation except that the records are classified according to some future 
+behaviour or estimated future value). 
+Association rules: Determining which things go together, also called dependency modeling. 
+Clustering: Segmenting a population into a number of subgroups or clusters. 
+Description & visualization: Representing the data using visualization techniques. 
+Learning from data falls into two categories: directed (“supervised”) and undirected (“unsupervised”) learning. 
+The first three tasks – classification, estimation and prediction – are examples of supervised learning. The next three 
+tasks – association rules, clustering and description & visualization – are examples of unsupervised learning. In 
+unsupervised learning, no variable is singled out as the target; the goal is to establish some relationship among all 
+the variables. Unsupervised learning attempts to find patterns without the use of a particular target field. 
+The development of new data mining and knowledge discovery tools is a subject of active research. One 
+motivation behind the development of these tools is their potential application in modern biology. 
+
+ 
 
 
-
-*Comparative genomics
-Comparative genomics is the study of the relationship of genome structure and function across different biological
-species. Gene finding is an important application of comparative genomics, as is discovery of new, non-coding
-functional elements of the genome. Comparative genomics exploits both similarities and differences in the proteins,
-RNA, and regulatory regions of different organisms. Computational approaches to genome comparison have
-recently become a common research topic in computer science. 
-Analysis of mutations in cancer 
-In cancer, the genomes of affected cells are rearranged in complex or even unpredictable ways. Massive sequencing
-efforts are used to identify previously unknown point mutations in a variety of genes in cancer. Bioinformaticians
-continue to produce specialized automated systems to manage the sheer volume of sequence data produced, and they
-create new algorithms and software to compare the sequencing results to the growing collection of human genome
-sequences and germline polymorphisms. New physical detection technologies are employed, such as oligonucleotide
-microarrays to identify chromosomal gains and losses and single-nucleotide polymorphism arrays to detect known
-point mutations. Another type of data that requires novel informatics development is the analysis of lesions found to
-be recurrent among many tumors. *
-
--Redes de regulaci�n transcripciones 
-
--importancia en biolog�a y biomedicina. 
+-Redes de regulación
+-importancia en biologica 
 
 
 
@@ -34,5 +39,5 @@ be recurrent among many tumors. *
 -Teor�a de grafos y redes complejas
 
 
-*****para ARACNE esta el paper en lab meeting de nature_protocols_daniel que es la descripcion de como funciona
+
 
