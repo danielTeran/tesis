@@ -7,36 +7,30 @@ Para eso se ha usado tecnicas sofisticadas computacionales para la obtener y ana
 
 La primera consiste en la ciencia interdisciplinaria para la interpretación de la información de las grandes secuencias y estructuras de caracter genomico, proteomico y de otras áreas de la biologia.
 
-La mineria de datos es la ciencia que se encarga de la extracción y descubrimiento de nuevos patrones o relaciones de un conjunto grande de datos. La tarea principal de la minería de datos es la predicción y la descripcion de los datos que fueron analizados. Las principales tareas en donde se ocupa la mineria de datos es para clasificacion (la asignación de los datos en los 
+La mineria de datos es la ciencia que se encarga de la extracción y descubrimiento de nuevos patrones o relaciones de un conjunto grande de datos. La tarea principal de la minería de datos es la predicción y la descripcion de los datos que fueron analizados. Las principales tareas en donde se ocupa la mineria de datos es:
+1 clasificacion (la asignación de los datos en clases previamente definidas)
+2 estimacion (dado una entrada de datos, obtendra algun valor para alguna variable desconocida)
+3 predicción (sigue la misma idea que la estimación y la clasificacion, solo que los datos son clasificados para encontrar un comportamiento futuro)
+4 reglas de asociación (determina que datos van juntos, dependecias del modelado) 
+5 agrupamiento (divide la población en subconjuntos o en aglomeraciones de menor tamaño)
 
-Classification: Classification is learning a function that maps (classifies) a data item into one of several predefined 
-classes. 
-Estimation: Given some input data, coming up with a value for some unknown continuous variable. 
-Prediction: Same as classification & estimation except that the records are classified according to some future 
-behaviour or estimated future value). 
-Association rules: Determining which things go together, also called dependency modeling. 
-Clustering: Segmenting a population into a number of subgroups or clusters. 
-Description & visualization: Representing the data using visualization techniques. 
-Learning from data falls into two categories: directed (“supervised”) and undirected (“unsupervised”) learning. 
-The first three tasks – classification, estimation and prediction – are examples of supervised learning. The next three 
-tasks – association rules, clustering and description & visualization – are examples of unsupervised learning. In 
-unsupervised learning, no variable is singled out as the target; the goal is to establish some relationship among all 
-the variables. Unsupervised learning attempts to find patterns without the use of a particular target field. 
-The development of new data mining and knowledge discovery tools is a subject of active research. One 
-motivation behind the development of these tools is their potential application in modern biology. 
+
+Los primeras 3 tareas pertenecen al modelo de aprendizaje supervisado y los ultimos dos a aprendizaje no supervisado
+
+//FALTA PONER ESO DE LAS REDES DE REGULACIÓN BIEN Y DE LA IMPORTANCIA BIOLOGICA 
 
  
 
 
--Redes de regulación
+-Redes de regulacion
 -importancia en biologica 
 
 
 
--Miner�a de datos en bioinform�tica y biolog�a computacional
+-Mineria de datos en bioinformaticay biologia computacional
 
 
--Teor�a de grafos y redes complejas
+-Teoria de grafos y redes complejas
 
 
 

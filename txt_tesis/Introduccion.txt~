@@ -1,8 +1,25 @@
 -Introducción 
 
-A lo largo de los años se han generado una cantidad enorme de información de todos los paradigmas del conocimiento apartir de experimentos llevados acabo por institutos y organizaciones en todo el mundo y que han sido distribuido a traves de internet [poner una cita del crecimiento de la informacion en internet y esta http://www.ijsce.org/attachments/File/v3i1/A1391033113.pdf]. Esta información se requiere tener condensada y accesible para analisis subsecuentes, debido a los diversos niveles de interpretacion que se les puede dar y a los diversas estructuras que puedan emerger de estos conjuntos de datos, como ejemplo, en finanzas y economia para analizar los movimientos del mercado, en telecomunicaciones para analizar datos en , metereologia, biolgia, medicina,[http://academic.csuohio.edu/fuy/Pub/pot97.pdf, http://www.spss.ch/upload/1122641492_Data%20mining%20applications%20in%20higher%20education.pdf    checar su referencia] pero de todos ellos,unos de los conjuntos de datos de mayor importancia, son los que tienen que ver con los dos ultimas areas mencionadas. 
+A lo largo de los años se han generado una cantidad enorme de información de todos los paradigmas del conocimiento apartir de experimentos llevados acabo por institutos y organizaciones en todo el mundo y que han sido distribuido a traves de internet [poner una cita del crecimiento de la informacion en internet y esta http://www.ijsce.org/attachments/File/v3i1/A1391033113.pdf]. Esta información se requiere tener condensada y accesible para analisis subsecuentes, debido a los diversos niveles de interpretacion que se les puede dar y a los diversas estructuras que puedan emerger de estos conjuntos de datos, como ejemplo, en finanzas y economia para analizar los movimientos del mercado, en telecomunicaciones para analizar datos en , metereologia, biolgia, medicina,[http://academic.csuohio.edu/fuy/Pub/pot97.pdf, http://www.spss.ch/upload/1122641492_Data%20mining%20applications%20in%20higher%20education.pdf    checar su referencia] y son estos últimos son los que han tenido mayor importancia  conjuntos de datos de mayor importancia, son los que tienen que ver con los dos ultimas areas mencionadas. 
 
-Para eso se ha usado tecnicas sofisticadas computacionales para  y analsis que actuan sobre estos datos, 
+Para eso se ha usado tecnicas sofisticadas computacionales para la obtener y analizar los diferentes patrones que pueden emerger de los datos obtenidos, a estas áreas del conocimiento que realizan estas actividades se les llama biología computacional y minería de datos [http://arxiv.org/abs/1205.1125]
+ 
+
+La primera consiste en la ciencia interdisciplinaria para la interpretación de la información de las grandes secuencias y estructuras de caracter genomico, proteomico y de otras áreas de la biologia.
+
+La mineria de datos es la ciencia que se encarga de la extracción y descubrimiento de nuevos patrones o relaciones de un conjunto grande de datos. La tarea principal de la minería de datos es la predicción y la descripcion de los datos que fueron analizados. Las principales tareas en donde se ocupa la mineria de datos es:
+1 clasificacion (la asignación de los datos en clases previamente definidas)
+2 estimacion (dado una entrada de datos, obtendra algun valor para alguna variable desconocida)
+3 predicción (sigue la misma idea que la estimación y la clasificacion, solo que los datos son clasificados para encontrar un comportamiento futuro)
+4 reglas de asociación (determina que datos van juntos, dependecias del modelado) 
+5 agrupamiento (divide la población en subconjuntos o en aglomeraciones de menor tamaño)
+
+
+Los primeras 3 tareas pertenecen al modelo de aprendizaje supervisado y los ultimos dos a aprendizaje no supervisado
+
+//FALTA PONER ESO DE LAS REDES DE REGULACIÓN BIEN Y DE LA IMPORTANCIA BIOLOGICA 
+
+ 
 
 
 -Redes de regulación
